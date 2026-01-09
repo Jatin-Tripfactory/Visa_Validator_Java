@@ -145,7 +145,7 @@ javac -cp "lib/*" -d . src/*.java
 
 ### Run Tests
 ```bash
-java -ea -cp "lib/*;." Tripfactory.Assignment.src.VisaRuleEvaluatorTest
+java -ea -cp "lib/*;." Visa_Validator_Java.Assignment.src.VisaRuleEvaluatorTest
 ```
 
 Expected output:

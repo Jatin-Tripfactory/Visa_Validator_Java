@@ -1,4 +1,4 @@
-package Tripfactory.Assignment.src;
+package Visa_Validator_Java.Assignment.src;
 
 import java.nio.file.Paths;
 import java.util.List;
