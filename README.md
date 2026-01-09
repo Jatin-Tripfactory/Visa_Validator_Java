@@ -152,4 +152,5 @@ Expected output:
 ```
 ALL TESTS PASSED
 ```
-
+### Note
+Ensure that the top level directory's name is "Visa_Validator_Java" after downloading
